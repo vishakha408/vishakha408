@@ -12,4 +12,4 @@ I'm Vishakha, exploring the world of **AI, ML, and Data Science**! </br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-Thanks for visiting my profile!
+### Thanks for visiting my profile!
